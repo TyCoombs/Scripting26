@@ -1,0 +1,19 @@
+header {
+    color: greenyellow;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+
+body {
+    background-color: rgb(8, 8, 8);
+    color: greenyellow;
+    padding: 30px;
+    margin: -30px;
+}
+
+h3 {
+    line-height: 2;
+}
